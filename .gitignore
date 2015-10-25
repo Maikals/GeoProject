@@ -1,0 +1,16 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/gradle.xml
+/.idea/tasks.xml
+/.idea/vcs.xml
+/.idea/misc.xml
+/.idea/modules.xml
+*.iws
+.DS_Store
+/build
+*.iml
+*.apk
+*.ap_
+*.dex
